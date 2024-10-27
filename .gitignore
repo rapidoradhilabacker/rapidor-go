@@ -1,0 +1,12 @@
+# Ignore .env file
+.env
+
+# Ignore test.db file
+test.db
+
+cqrs-poc
+main
+/pulsar/*
+__debug*
+.vscode/*
+go-pulsar-websockets
